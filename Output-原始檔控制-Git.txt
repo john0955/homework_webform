@@ -1,0 +1,8 @@
+﻿已在 C:\demo_webform\WebApplication1 中為您建立新的 Git 存放庫。
+正在開啟存放庫:
+C:\demo_webform\WebApplication1
+在存放庫 C:\demo_webform\WebApplication1 中於本機建立了認可 07c7ceec
+正在開啟存放庫:
+C:\demo_webform\WebApplication1
+正在推送 master
+Everything up-to-date
